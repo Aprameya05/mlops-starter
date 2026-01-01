@@ -1,0 +1,9 @@
+data:
+  path: data/data.csv
+
+model:
+  type: linear_regression
+
+training:
+  test_size: 0.2
+  random_state: 42
